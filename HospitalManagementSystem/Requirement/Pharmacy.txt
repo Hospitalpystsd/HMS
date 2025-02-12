@@ -1,0 +1,12 @@
+1.Drug Id
+2.Drug Name
+3.Category
+4.Usage
+5.Form
+6.Dosage
+7.Manufacturer
+8.BuyingDate
+9.ExpiryDate
+10.Supplier Id/Name
+11.Supplier Contect/Location
+12.Stock - (used/needed)

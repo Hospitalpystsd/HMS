@@ -1,0 +1,37 @@
+For OutPatient :
+
+1. OutPatient Id
+2.Patient Name
+3.Age/Sex
+4.Unit
+5.Date/Time
+6.Valid Upto
+7.CMCHIS -Chief Minister Comprehensive Health Insurance Scheme
+8.MLRS - Medical Loss Ratio
+9.MLC - Medico-Legal Case
+10.OP Room No
+11.Reason
+12.Department
+13.Payment
+
+For InPatient :
+
+1. Patient Id
+2.Patient Name
+3.Age/Sex
+4.Unit
+5.Date/Time
+6.Valid Upto
+7.CMCHIS -Chief Minister Comprehensive Health Insurance Scheme
+8.MLRS - Medical Loss Ratio
+9.MLC - Medico-Legal Case
+10.Room No
+11.Department
+12.Doctor
+13.Reason
+14.Married Status
+15.Department
+16.Emergency Contect/Relation
+17.BlooodGroup
+18.Address
+19.Payment

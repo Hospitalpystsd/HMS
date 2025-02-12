@@ -1,0 +1,14 @@
+1.Doctor Id
+2.Doctor Name
+3.Data of Birth
+4.Gender
+5.Contect Number
+6.Email
+7.Address
+8.Department/Room No
+9.Shift
+10.Availability
+11.Qualification
+12.Experience
+13.Joined Date
+14.Patients
